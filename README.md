@@ -1,4 +1,4 @@
-<header>
+<header> Read.
 
 <!--
   <<< Author notes: Course header >>>
