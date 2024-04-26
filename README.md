@@ -1,4 +1,4 @@
-<header> Branch 
+<header>
 
 <!--
   <<< Author notes: Course header >>>
